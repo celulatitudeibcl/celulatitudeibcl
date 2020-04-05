@@ -8479,6 +8479,9 @@ h1, h2, h3, h4, h5,
         height: 750px;
         z-index: 0; }
         @media (max-width: 991.98px) {
+          .slider-text{
+            margin-bottom:20px;
+          }
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
